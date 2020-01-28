@@ -391,7 +391,31 @@ MonoBehaviour:
     m_Id: e60ab360-d115-48ef-91fe-bc91be47ee18
     m_Processors: 
     m_Interactions: 
-    m_SingletonActionBindings: []
+    m_SingletonActionBindings:
+    - m_Name: WS
+      m_Id: be82d2b2-c027-4d23-b392-a6046daa8430
+      m_Path: 1DAxis
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Pitch Input
+      m_Flags: 4
+    - m_Name: negative
+      m_Id: 09fc67ea-7bac-4969-b748-b2bce0bb4ad7
+      m_Path: <Keyboard>/s
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Pitch Input
+      m_Flags: 8
+    - m_Name: positive
+      m_Id: 8e92322c-4789-4aea-8a35-12a9f859f7cb
+      m_Path: <Keyboard>/w
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Pitch Input
+      m_Flags: 8
   yawInput:
     m_Name: Yaw Input
     m_Type: 0
