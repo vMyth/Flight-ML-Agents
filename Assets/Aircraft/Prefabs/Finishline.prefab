@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3834439580847935787}
   m_Layer: 0
   m_Name: Finishline
-  m_TagString: Untagged
+  m_TagString: checkpoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
