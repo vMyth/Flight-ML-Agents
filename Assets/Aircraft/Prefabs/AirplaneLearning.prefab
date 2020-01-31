@@ -261,6 +261,8 @@ MonoBehaviour:
   m_InferenceDevice: 1
   m_BehaviorType: 0
   m_BehaviorName: AircraftLearning
+  m_TeamID: 0
+  m_useChildSensors: 1
 --- !u!114 &6095945293653335867
 MonoBehaviour:
   m_ObjectHideFlags: 0
