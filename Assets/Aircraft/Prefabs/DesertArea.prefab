@@ -1292,6 +1292,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7386658392930795186, guid: 70e53ea4b0caaa04da606295cdc8d663,
+        type: 3}
+      propertyPath: m_Model
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9076709741746761837, guid: 70e53ea4b0caaa04da606295cdc8d663,
         type: 3}
       propertyPath: m_Name
@@ -1970,7 +1975,7 @@ PrefabInstance:
     - target: {fileID: 2804185463847696079, guid: 51abf95cc6f1bc34490873a6d485facf,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 41.2
+      value: 25.2
       objectReference: {fileID: 0}
     - target: {fileID: 2804185463847696079, guid: 51abf95cc6f1bc34490873a6d485facf,
         type: 3}
@@ -1980,7 +1985,7 @@ PrefabInstance:
     - target: {fileID: 2804185463847696079, guid: 51abf95cc6f1bc34490873a6d485facf,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -55.8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2804185463847696079, guid: 51abf95cc6f1bc34490873a6d485facf,
         type: 3}
@@ -2181,6 +2186,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2754041391701590883, guid: e914e3225af6e3741a63d54005c03f54,
+        type: 3}
+      propertyPath: m_Model
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4416922697434402236, guid: e914e3225af6e3741a63d54005c03f54,
         type: 3}
@@ -2811,6 +2821,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: AirplaneRed
+      objectReference: {fileID: 0}
+    - target: {fileID: 2289954808005030800, guid: 2eecffbe90b957c4a8a9983e53253a3d,
+        type: 3}
+      propertyPath: m_Model
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 3668333476369141596, guid: 2eecffbe90b957c4a8a9983e53253a3d,
         type: 3}
@@ -4036,6 +4051,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: AirplaneLearning
+      objectReference: {fileID: 0}
+    - target: {fileID: 4174904125950296727, guid: 631b5115e03a85a46a5838894e32857f,
+        type: 3}
+      propertyPath: m_Model
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 631b5115e03a85a46a5838894e32857f, type: 3}

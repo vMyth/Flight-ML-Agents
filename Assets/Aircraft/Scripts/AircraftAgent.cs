@@ -94,7 +94,7 @@ namespace Aircraft
                 }
 
                 Vector3 localCheckpointDir = VectorToNextCheckpoint();
-                if (localCheckpointDir.magnitude < area.AircraftAcademy.resetParameters["checkpoint_radius"])
+                if (localCheckpointDir.magnitude < area.AircraftAcademy.FloatProperties.GetPropertyWithDefault("checkpoint_radius", 0f))
                 {
                     GotCheckpoint();
                 }
